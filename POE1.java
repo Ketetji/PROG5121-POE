@@ -6,7 +6,6 @@ package com.mycompany.poe1;
 import java.util.Scanner;
 /**
  *Validation logic adapted from W3Schools Java examples (W3Schools, 2026).
- * Developed according to IIE Programming 1A POE brief (IIE, 2026).
  * @author ketet
  */
 
@@ -63,4 +62,9 @@ public class POE1 {
  
     }
     
-}
+} 
+
+ //REFERENCE LIST
+//W3Schools.2026.Java Variables Real-Life Examples.Availabe at: https://www.w3schools.com/java/java_variables_reallife.asp.
+//Youtube.2026.Referencing Classes in Java. Available at: https://www.youtube.com/warch?v=ffI3AKlB5sM.
+//W3Schools Java tutorials (W3Schools, 2026).
