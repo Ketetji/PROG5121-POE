@@ -10,7 +10,7 @@ package com.mycompany.poe1;
  */
 
 
-public class Task {
+public class Task {  //(W3Schools, 2026).
     private String taskName;
     private String developer;
     private int duration;
