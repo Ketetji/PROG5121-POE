@@ -9,7 +9,7 @@ import com.mycompany.poe1.Task;
 
 /**
  *Main class handles user login and task display.
- * Menu input logic adapted fro W3Schools Java examples (W3Schools, 2026).
+ * Menu input logic adapted from W3Schools Java examples (W3Schools, 2026).
  * Developed according to IIE Programming 1A POE brief (IIE, 2026).
  * @author ketet
  */
@@ -45,3 +45,5 @@ public class Main {
     
     
 }
+//Reference
+//W3Schools Java (W3Schools, 2026)
